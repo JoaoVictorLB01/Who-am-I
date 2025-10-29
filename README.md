@@ -1,4 +1,4 @@
-Olá, me chamo João Victor, apaixonado por tecnologia, programção e inovações. Atualmente, como estudante de Ciência da Computação, atuo como FullStack e Pentester
+Olá, me chamo João Victor, apaixonado por tecnologia, programção e inovações. Atualmente no sexto período de Ciência da Computação.
 
 <!---
 JoaoVictorLB01/JoaoVictorLB01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
